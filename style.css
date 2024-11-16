@@ -90,7 +90,7 @@ img{
 @media (max-width:500px) {
     .abrir{
         position: absolute;
-        left: 20%;
+        left: 5%;
         width: 80%;
         height: 126vh;
         background-color: rgba(0, 0, 0, 0.76);
