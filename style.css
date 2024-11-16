@@ -95,7 +95,10 @@ img{
         height: 126vh;
         background-color: rgba(0, 0, 0, 0.76);
         z-index: 2000; 
+    display:none;
     }
+    .abrir.abrir {
+    display: block; }
     h2{
         position: relative;
         top: 40px;
