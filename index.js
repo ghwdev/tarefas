@@ -40,6 +40,9 @@ $(".adi").click(function() {
   let get = localStorage.getItem(chave);
 
   $(sla).text(get);
+inp.forEach(function(input) {
+    input.value = "";  
+  });
 
   $(sla).dblclick(function() {
     $(this).css("display", "none");
