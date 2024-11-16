@@ -78,7 +78,9 @@ span{
     top: 25%;
 }
 h2{
-
+position: fixed;
+right: 12%;
+top: 15%;
     text-align: center;
 }
 img{
@@ -103,9 +105,9 @@ img{
     .abrir.abrir {
     display: block; }
     h2{
-        position: relative;
-        top: 40px;
-        right: 20px;
+     position: fixed;
+right: 12%;
+top: 15%;
     }
     span{
         color: aliceblue;
